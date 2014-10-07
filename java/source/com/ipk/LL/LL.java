@@ -1,5 +1,11 @@
 package com.ipk.LL;
 
+/*
+ * Author: Ian Kane
+ * Date: October 7, 2014
+ * Purpose: Java singly linked list implementation
+ */
+
 public class LL {
 
 	private Node head;
